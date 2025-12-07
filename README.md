@@ -14,3 +14,11 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
+
+## Used dataset
+link: https://www.sciencedirect.com/science/article/pii/S2352340924011764
+
+## To start
+### If you want to use already parsed data, refer to the [analyze-parsed-data notebook](notebooks\model-invetigations\analyze-parsed-data.ipynb) for investigations.
+
+### If you need to get new datasource, create parser under [data-parser](notebooks\data-parser) directory.
